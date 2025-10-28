@@ -6,6 +6,8 @@ A visually rich and responsive website showcasing iconic Indian sweets like **Gu
 
 ## 🚀 Live Preview
 
+🔗 [Click here to view the site](https://ashutoshrai142.github.io/TheGreatIndianSweetShop/)
+
 
 ---
 
